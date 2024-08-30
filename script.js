@@ -1,2 +1,1 @@
-
-alert("Vai TIMAO")
+alert("TIMAO")
